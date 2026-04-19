@@ -5,8 +5,7 @@
   **Open-source developer tooling — production-grade
   monorepo starters, libraries, and platforms.**
 
-  [![Follow](https://img.shields.io/github/followers/sources
-  tack-commits?style=social)](https://github.com/sourcestack
+  [![Follow](https://github.com/sourcestack
   -commits)
 
   </div>
